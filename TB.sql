@@ -3,3 +3,4 @@ CREATE TABLE TB01 (
 	col_texto TEXT, 
 	col_dt TIMESTAMP 
 );
+SELECT * FROM TB01;
